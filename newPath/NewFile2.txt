@@ -2,3 +2,4 @@ This is
 NewFile2. 
 ANOTHER 
 CHANGEEEEEE!
+just new line
